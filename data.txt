@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "44479805-9903-457f-bc66-681a8144d709",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXfNhg.webp",
+	 "title": "Getta apk",
+	 "text": "User-friendly interface for adding, editing, and deleting tasks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXfOQa.webp",
+	 "title": "Getta apk",
+	 "text": "Ability to categorize tasks into different lists or projects.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXf84R.webp",
+	 "title": "Getta apk",
+	 "text": "Push notifications and reminders for upcoming tasks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXfvEv.webp",
+	 "title": "Getta apk",
+	 "text": "Sharing and collaboration features for team projects or shared tasks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXfkCJ.webp",
+	 "title": "Getta apk",
+	 "text": "Real-time updates and synchronization across multiple devices.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXfU2p.webp",
+	 "title": "Getta apk",
+	 "text": "Allow users to prioritize tasks with different levels of urgency.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
